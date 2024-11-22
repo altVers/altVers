@@ -19,3 +19,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altVers&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
