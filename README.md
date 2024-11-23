@@ -40,12 +40,11 @@ In my work, I primarily use TypeScript and the React library. I also try to leve
 
 ## Education 🎓
 - **2020** — Graduated from SpBGUGA with honors, earning a degree as a civil aviation pilot.
-- Currently pursuing a master's degree at ITMO University in robotics and motion control.
 
 ## Projects 📂
 You'll find many educational projects on my GitHub, which I transferred from my school GitLab. Some projects are combined into one repository, while others are highlighted separately.
 ### My Proudest Project
-- **CinemaGuide** — A site similar to "KinoPoisk." [Visit the project](https://altvers.ru/)
+- **CinemaGuide** — A site similar to "КиноПоиск". [Visit the project](https://altvers.ru/)
 
 ## Contact Information 📬
 - Email: [tmostov@mail.ru](mailto:tmostov@mail.ru)  
