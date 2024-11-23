@@ -13,6 +13,7 @@ I'm 25 years old, and I'm a creative person striving to develop different aspect
 
 ## Experience and Skills 💻
 In my work, I primarily use TypeScript and the React library. I also try to leverage other libraries that simplify development.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altVers&layout=donut&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
