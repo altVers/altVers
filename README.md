@@ -1,13 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  # Hi, I'm Timofey Degtyarev! 👋
   <div> 
   Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   </div>
 </div>
-
 ---
-
+# Hi, I'm Timofey Degtyarev! 👋
 ## About Me 🌟
 I'm 25 years old, and I'm a creative person striving to develop different aspects of my life. I find programming fascinating and promising, which is why I love learning about it. I have a wonderful wife and four cats that I love dearly.
 
