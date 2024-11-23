@@ -1,11 +1,49 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div>
-  Hi there! I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 </div>
 </div>
 
 ---
+# Hi, I'm Timofey Degtyarev! 👋
+
+## About Me 🌟
+I'm 25 years old, and I'm a creative person striving to develop different aspects of my life. I find programming fascinating and promising, which is why I love learning about it. I have a wonderful wife and four cats that I love dearly.
+
+## Experience and Skills 💻
+In my work, I primarily use TypeScript and the React library. I also try to leverage other libraries that simplify development.
+
+### My Journey in Development:
+- I started my training as a C# developer, but I became captivated by a web development course that revealed my potential and sparked my interest in frontend development.
+- I worked as a content manager (markup specialist) at a media project for a bank, where I deepened my frontend knowledge.
+- I completed an online frontend course and actively collaborated with developers to take on real tasks.
+- I aim to apply all the knowledge and skills I've acquired in my future work.
+
+## Education 🎓
+- **2020** — Graduated from SpBGUGA with honors, earning a degree as a civil aviation pilot.
+- Currently pursuing a master's degree at ITMO University in robotics and motion control.
+
+## Projects 📂
+You'll find many educational projects on my GitHub, which I transferred from my school GitLab. Some projects are combined into one repository, while others are highlighted separately.
+### My Proudest Project
+- **CinemaGuide** — A site similar to "KinoPoisk." [Visit the project](https://altvers.ru/)
+
+## Contact Information 📬
+- Email: [tmostov@mail.ru](mailto:tmostov@mail.ru)  
+- Telegram: [t.me/timanred](https://t.me/timanred)  
+- VK: [vk.com/xxxbr0dyagaxxx](https://vk.com/xxxbr0dyagaxxx)
+
+## Interests 🎨
+Besides programming, I have many hobbies:
+- I play volleyball and go to the gym.
+- I enjoy drawing and listening to music.
+- I have practiced swimming, played guitar, and piano.
+- I love video games, playing with friends or indulging in solo games to relax.
+
+## Goals 🎯
+My goal is to become a qualified developer, one day leading a team and sharing my knowledge.
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
