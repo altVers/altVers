@@ -52,6 +52,7 @@ You'll find many educational projects on my GitHub, which I transferred from my 
 - Email: [tmostov@mail.ru](mailto:tmostov@mail.ru)  
 - Telegram: [t.me/timanred](https://t.me/timanred)  
 - VK: [vk.com/xxxbr0dyagaxxx](https://vk.com/xxxbr0dyagaxxx)
+- in: [linkedin](https://www.linkedin.com/in/timofey-degtyarev-50752033a/)
 
 ## Interests 🎨
 Besides programming, I have many hobbies:
