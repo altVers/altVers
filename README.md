@@ -43,17 +43,10 @@ In my work, I primarily use TypeScript and the React library. I also try to leve
 - **2018 — 2022** — Graduated from SpBGUGA with honors, earning a bachelor`s degree as a civil aviation pilot.
 - **2022 — 2023** — Incomplete Master's degree in Faculty of Control Systems and Robotics in ITMO University.
 
-## Projects 📂
-You'll find many educational projects on my GitHub, which I transferred from my school GitLab. Some projects are combined into one repository, while others are highlighted separately.
-
-### My Proudest Project
-**CinemaGuide** — A site similar to "КиноПоиск". [Visit the project](https://cinema-guide.altvers.ru/)
-
 ## Contact Information 📬
 - Email: [tmostov@mail.ru](mailto:tmostov@mail.ru)  
 - Telegram: [t.me/timanred](https://t.me/timanred)  
 - VK: [vk.com/xxxbr0dyagaxxx](https://vk.com/xxxbr0dyagaxxx)
-- in: [linkedin](https://www.linkedin.com/in/timofey-degtyarev-50752033a/)
 
 ## Interests 🎨
 Besides programming, I have many hobbies:
